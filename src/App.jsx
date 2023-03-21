@@ -7,11 +7,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <Fragment>
-     <InputSbd type={"text"} placeholder={"jgsdrg"}/>
-     <InputSbd type={"text"} placeholder={"jgsdrg"}/>
-
-    </Fragment>
+    <h1>sdfsdsd</h1>
   )
 }
 
